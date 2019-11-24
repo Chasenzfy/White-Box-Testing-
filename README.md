@@ -1,3 +1,5 @@
+# 最终结果
+![image](https://https://github.com/Chasenzfy/White-Box-Testing-/tree/master/IMG/test.png)
 # junit + jacoco  白盒测试训练
 
 ## 你需要去了解的
